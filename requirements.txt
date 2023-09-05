@@ -1,0 +1,11 @@
+pytesseract
+opencv-python
+PIL
+re
+numpy
+pandas
+matplotlib
+tensorflow
+sklearn
+scipy
+threadpoolctl

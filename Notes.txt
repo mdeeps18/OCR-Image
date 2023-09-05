@@ -1,0 +1,7 @@
+# We import the necessary packages
+#import the needed packages #ref https://nanonets.com/blog/ocr-with-tesseract/#ocr-with-pytesseract-and-opencv
+
+conda create -p venv python==3.9 -y
+conda activate venv
+
+#Ans - Test accuracy: 0.9775999784469604
